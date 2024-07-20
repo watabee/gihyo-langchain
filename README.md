@@ -26,3 +26,8 @@ $ mkdir -p data
 $ curl https://raw.githubusercontent.com/langchain-ai/langchain/master/libs/community/tests/examples/layout-parser-paper.pdf > data/layout-parser-paper.pdf
 ```
 
+RecursiveCharacterTextSplitter を使うための設定
+
+```shell
+$ pip install langchain-text-splitters==0.2.1
+```
