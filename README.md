@@ -1,6 +1,6 @@
 # gihyo-langchain
 
-Software Design 2024/08 号のLLMアプリ開発入門のサンプルアプリ
+Software Design 2024年8月号のLLMアプリ開発入門のサンプルアプリ
 
 ## 環境構築
 
