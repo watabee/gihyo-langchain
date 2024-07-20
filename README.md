@@ -31,3 +31,9 @@ RecursiveCharacterTextSplitter を使うための設定
 ```shell
 $ pip install langchain-text-splitters==0.2.1
 ```
+
+Chroma を使うための設定
+
+```shell
+$ pip install langchain-chroma==0.1.1
+```
